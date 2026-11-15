@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use or reference ATLAS, please cite this research project."
+title: "ATLAS: Spatial Intelligence Platform"
+abstract: "A research initiative exploring persistent, evidence-grounded spatial intelligence, dynamic 4D scene understanding, and physical-world reasoning."
+authors:
+  - family-names: "Reddy"
+    given-names: "Gorisi Deepak"
+type: software
+license: CC-BY-4.0
+repository-code: "https://github.com/thedeepakreddy/ATLAS-spatial-intelligence"
