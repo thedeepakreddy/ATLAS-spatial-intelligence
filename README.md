@@ -2,7 +2,11 @@
 ### Understanding the Physical World
 
 <p align="center">
-  <img src="assets/atlas-banner.png" alt="ATLAS - Understanding the Physical World" width="100%">
+  <img
+    src="assets/atlas-banner.PNG"
+    alt="ATLAS - Understanding the Physical World"
+    width="100%"
+  >
 </p>
 
 <p align="center">
